@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "utmost": {
+            "type": "http",
+            "url": "https://app.utmostcoach.com/mcp"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "utmost",
+    "displayName": "Utmost",
+    "version": "1.0.0",
+    "description": "Ask Claude how your training in Utmost is going, and let it help you coach: weekly reviews, client check-ins, and exercises and program drafts that you approve in Utmost.",
+    "author": {
+        "name": "Webreact B.V.",
+        "email": "support@utmostcoach.com",
+        "url": "https://utmostcoach.com"
+    },
+    "homepage": "https://app.utmostcoach.com/ai-apps",
+    "license": "MIT",
+    "keywords": [
+        "training",
+        "fitness",
+        "strength training",
+        "coaching",
+        "personal trainer"
+    ],
+    "privacyPolicyUrl": "https://app.utmostcoach.com/privacy",
+    "icon": "./.claude-plugin/icon.png"
+}
